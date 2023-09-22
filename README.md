@@ -10,6 +10,7 @@ https://github.com/Eurekha-K/Face-Recognition-Student-Attendance-Management-Syst
 
 # Main Page of Application 
 
+
 ![Screenshot 2023-09-22 114905](https://github.com/Eurekha-K/Face-Recognition-Student-Attendance-Management-System/assets/143890210/07ed0067-219a-47e6-ac40-773fc3b67cd4)
 
 
